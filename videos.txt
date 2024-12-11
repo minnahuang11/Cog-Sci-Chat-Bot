@@ -1,20 +1,75 @@
-Video title: The magical number 7, plus or minus 2
+Neuroanatomy Basics:
 
-How many random numbers can you remember at any given time 5, 10, or 20? Psychologist George Miller tackled this question in 1956 while working at AT&T Bell Labs, publishing a paper entitled *The Magical Number Seven, Plus or Minus Two.* His research found that most people can remember only 5 to 9 items at a time without using memory aids like chunking. Chunking is the process of grouping items into a single entity, such as treating an area code as one item, which increases memory capacity. This concept ties into working memory, where information is held temporarily and typically lost within 20 seconds unless transferred to long-term memory. John Sweller's Cognitive Load Theory builds on this, suggesting that instruction should focus on essential content to effectively transfer information into long-term memory. Extraneous information should be minimized to avoid overwhelming the limited capacity of working memory. Richard Mayer expanded these ideas, proposing that we have two distinct pathways for processing information: the auditory pathway, which processes sounds, and the visual pathway, which processes images. These pathways operate independently, effectively doubling working memory capacity. However, this distinction becomes less clear when reading, as the visual pathway captures the words, but the auditory pathway processes their meaning. Based on Miller's findings, telephone numbers were designed with a 3-digit prefix and 4 random digits, creating five chunks of information to stay within the limits of working memory. The key takeaway for instructors and communicators is to structure messages carefully, prioritizing essential information to align with the natural constraints of working memory.
+1. **Neuron**: The basic building block of the nervous system, responsible for transmitting electrical and chemical signals.
 
-Video title: Types of Memory | Short Term & Working Memory, Long Term Memory (Explicit and Implicit) - JJ Medcine 
+2. **Synapse**: The gap between two neurons where communication occurs through neurotransmitters.
 
-Memory is the ability to retain, process, and utilize information, defining who we are and what we know. It is categorized into sensory memory, short-term memory (working memory), and long-term memory. Sensory memory is the brief retention of sensory information, such as the perception of continuous light trails, lasting only a fraction of a second. It filters attended information into conscious awareness or short-term memory. Short-term or working memory is temporary storage lasting 20 to 30 seconds unless rehearsed. It has a capacity of five to nine items, often remembered as the “magic number” seven plus or minus two. This memory is essential for problem-solving, planning, and executive functioning. Chunking, or grouping information, can increase efficiency within this limited capacity. Long-term memory involves information consolidated by the hippocampus for long-term storage. It is divided into explicit memory, which is conscious, and implicit memory, which is unconscious. Explicit memory includes semantic memory, which consists of facts and knowledge, such as the names of capital cities, and episodic memory, which involves personal experiences tied to emotions, like a graduation day. Implicit memory includes procedural memory, often called muscle memory, which enables skills like riding a bike or playing an instrument without conscious effort. Explicit memory is consciously recalled and declarative, while implicit memory operates without conscious awareness. Both types play unique roles in cognition and daily life.
+3. **Neurotransmitter**: Chemicals that transmit signals across a synapse from one neuron to another.
 
-Video title: How We Make Memories: Crash Course Psychology #13 by crash Course
+4. **Cerebrum**: The largest part of the brain, responsible for higher functions like thought, memory, and voluntary movement.
 
-Clive Wearing, a renowned London musician, lost his ability to form new memories or recall most of his past after contracting a rare virus in 1985. Despite his severe amnesia, he retains procedural memories, such as playing the piano, highlighting the complexity of memory and its role in shaping identity. Memory connects our past to the present and enables future planning, with different types—episodic for personal events, procedural for learned skills, and others—stored in long-term memory. Memory formation involves three stages: encoding, storage, and retrieval. Initially, information enters as sensory memory, fleeting and lasting seconds unless transferred to short-term memory through rehearsal. Short-term memory holds 4-7 bits of information for under 30 seconds, but through working memory, explicit and implicit processes can transfer data to long-term storage. Explicit processes are active and conscious, like studying, while implicit ones, like conditioned responses, happen automatically. Strategies like mnemonics and chunking help enhance explicit processing by organizing information into manageable units. Effective encoding also depends on the depth of processing—shallow processing focuses on basic features like sound, while deep processing links meaning and personal relevance, making information more memorable. For example, connecting the name Leonidas to its Greek meaning or historical context enriches retention. Clive Wearing’s case underscores how memory defines identity, and losing it can feel like losing oneself. Memory shapes who we are, haunting or sustaining us, and its study reveals how deeply it impacts every aspect of our lives. Techniques like rehearsal, meaningful associations, and deeper processing enhance memory’s power, enabling us to better understand and retain the world around us.
+5. **Cerebellum**: The part of the brain that controls balance, coordination, and fine motor skills.
 
-Video title: Visuospatial sketchpad - Intro to Psychology
+6. **Brainstem**: The lower part of the brain that connects to the spinal cord and controls basic functions like heart rate and breathing.
 
-The first focus here is a Visuospatial sketchpad. This is responsible for visual and spatial information. Try this: close your eyes. Are they closed? Okay, now tell me how many rows of dots there were on the screen. Okay, open your eyes. Were you right? For this example, the sketchpad provides storage for information that's visual, such as images of photos. In this example, you're using your visuospatial sketchpad when you were trying to remember how many rows of dots there were on the screen.  The second part of the storage system is the episodic buffer. This is related to the storage of information that will become long-term memories of specific events.  Finally, we have the Phonological loop. As the name implies, it's our memory for sound or linguistic information. If we want the information that we've learned to last and become a long-term memory, we have to rehearse it. This is called rehearsal. As the name implies, rehearsal is a process of practicing or reciting the information to ourselves.  Now, go back to the example of the letters I wanted you to remember. Your visuospatial sketchpad allows you to see the numbers in your head. Your phonological loop allows you to hear the numbers, and you'll need to rehearse the letters if you want them for later use.
+7. **Hippocampus**: A brain region involved in learning and memory.
 
-Video title: How to optimize cognitive function
+8. **Amygdala**: A part of the brain involved in emotion regulation, especially fear and pleasure.
 
+9. **Spinal Cord**: A long, cylindrical structure that connects the brain to the peripheral nervous system and transmits signals.
 
+10. **Peripheral Nervous System (PNS)**: The part of the nervous system outside the brain and spinal cord, including sensory and motor neurons.
 
+11. **Central Nervous System (CNS)**: Consists of the brain and spinal cord; processes and coordinates all nervous system activity.
+
+12. **Glial Cells**: Supportive cells in the nervous system that provide insulation, nutrients, and structural support for neurons.
+
+13. **Myelin Sheath**: A fatty layer that surrounds the axon of a neuron to speed up signal transmission.
+
+14. **Axon**: A long projection of a neuron that carries electrical impulses away from the cell body.
+
+15. **Dendrites**: Branch-like structures on neurons that receive signals from other neurons.
+
+16. **Limbic System**: A set of brain structures involved in emotions, memories, and arousal (stimulation).
+
+17. **Thalamus**: The brain's relay station, directing sensory and motor signals to the appropriate areas of the brain.
+
+18. **Hypothalamus**: A small region of the brain that regulates homeostasis, including temperature, hunger, and hormonal activity.
+
+19. **Cortex**: The outer layer of the cerebrum, involved in complex functions like perception, thought, and decision-making.
+
+20. **Basal Ganglia**: A group of structures that regulate movement and coordination.
+
+21. **Corpus Callosum**: A thick band of nerve fibers that connects the two hemispheres of the brain, allowing communication between them.
+
+22. **Frontal Lobe**: The part of the brain involved in decision-making, problem-solving, and voluntary movements.
+
+23. **Parietal Lobe**: Processes sensory information such as touch, temperature, and pain.
+
+24. **Temporal Lobe**: Involved in processing auditory information and memory.
+
+25. **Occipital Lobe**: The part of the brain responsible for visual processing.
+
+26. **Medulla Oblongata**: Part of the brainstem that controls vital functions like heartbeat and breathing.
+
+27. **Pons**: A structure in the brainstem that links the medulla oblongata and the thalamus, playing a role in sleep and respiration.
+
+28. **Cerebrospinal Fluid (CSF)**: A clear fluid that surrounds and protects the brain and spinal cord.
+
+29. **Meninges**: Protective membranes that cover the brain and spinal cord.
+
+30. **Blood-Brain Barrier (BBB)**: A protective barrier that prevents harmful substances in the blood from entering the brain.
+
+31. **Somatic Nervous System**: The part of the PNS that controls voluntary movements and sensory reception.
+
+32. **Autonomic Nervous System**: The part of the PNS that controls involuntary functions like heartbeat and digestion.
+
+33. **Sympathetic Nervous System**: Part of the autonomic system that activates the "fight or flight" response.
+
+34. **Parasympathetic Nervous System**: Part of the autonomic system that promotes "rest and digest" activities.
+
+35. **Action Potential**: The electrical signal that travels along a neuron to transmit information.
+
+36. **Resting Potential**: The electrical charge of a neuron when it is not transmitting a signal.
+
+37. **Plasticity**: The brain's ability to change and adapt in response to experience or injury.

@@ -54,9 +54,7 @@ while True:
     answer, confidence = answer_question_combined(question, relevant_chunks)
 
     # Respond to the user
-    if confidence > 0.8:
-        print(f"Chatbot: Here's what I found - {answer}. (Confidence: {confidence:.2f})")
-    elif confidence > 0.5:
-        print(f"Chatbot: I think the answer is {answer}, but I'm not 100% sure.")
+    if confidence > 0.5:
+        print(f"Chatbot: Here's the answer - {answer}.")
     else:
         print("Chatbot: Sorry, I couldn't find a clear answer in the transcript. Could you rephrase?")
